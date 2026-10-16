@@ -1,0 +1,7 @@
+{
+  "tenant": "demo-healthcare",
+  "business": "Brookfield Clinic",
+  "agent_id": "agent_9ebf099d8c87f9ec55c8b9a5b5",
+  "llm_id": "llm_f52e23d8bc03547884c71de614d6",
+  "voice_id": "11labs-Amy"
+}
